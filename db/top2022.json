@@ -2,6 +2,7 @@
   {
     "rank": 1,
     "title": "Ants From Up There",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/mmbs.webp",
     "artist": "Black Country, New Road",
     "releaseDate": "2/4/2022",
     "rating": 4.01,
@@ -10,6 +11,7 @@
   {
     "rank": 2,
     "title": "Hellfire",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/hellfire.webp",
     "artist": "black midi",
     "releaseDate": "7/15/2022",
     "rating": 3.93,
@@ -18,6 +20,7 @@
   {
     "rank": 3,
     "title": "Dragon New Warm Mountain I Believe in You",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/dnwmibiy.webp",
     "artist": "Big Thief",
     "releaseDate": "2/11/2022",
     "rating": 3.91,
@@ -26,6 +29,7 @@
   {
     "rank": 4,
     "title": "Cheat Codes",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/cheat-codes.webp",
     "artist": "Danger Mouse & Black Thought",
     "releaseDate": "8/12/2022",
     "rating": 3.93,
@@ -34,6 +38,7 @@
   {
     "rank": 5,
     "title": "Aethiopes",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/aethiopes.webp",
     "artist": "billy woods",
     "releaseDate": "4/8/2022",
     "rating": 3.89,
@@ -42,6 +47,7 @@
   {
     "rank": 6,
     "title": "De todas las flores",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/de-todas-las-flores.webp",
     "artist": "Natalia Lafourcade",
     "releaseDate": "10/28/2022",
     "rating": 3.92,
@@ -50,6 +56,7 @@
   {
     "rank": 7,
     "title": "The Forever Story",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/tfs.webp",
     "artist": "J.I.D",
     "releaseDate": "8/26/2022",
     "rating": 3.89,
@@ -58,6 +65,7 @@
   {
     "rank": 8,
     "title": "卵 (Tamago)",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/tamago.webp",
     "artist": "betcover!!",
     "releaseDate": "12/21/2022",
     "rating": 3.87,
@@ -66,6 +74,7 @@
   {
     "rank": 9,
     "title": "Blue Rev",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/blue-rev.webp",
     "artist": "Alvvays",
     "releaseDate": "10/7/2022",
     "rating": 3.78,
@@ -74,6 +83,7 @@
   {
     "rank": 10,
     "title": "And in the Darkness, Hearts Aglow",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/and-in-the-darkness-hearts-aglow.webp",
     "artist": "Weyes Blood",
     "releaseDate": "11/18/2022",
     "rating": 3.78,
@@ -82,6 +92,7 @@
   {
     "rank": 11,
     "title": "Once Twice Melody",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/once-twice-melody.webp",
     "artist": "Beach House",
     "releaseDate": "2/18/2022",
     "rating": 3.77,
@@ -90,6 +101,7 @@
   {
     "rank": 12,
     "title": "Melt My Eyez See Your Future",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/mmesyf.webp",
     "artist": "Denzel Curry",
     "releaseDate": "3/25/2022",
     "rating": 3.76,
@@ -98,6 +110,7 @@
   {
     "rank": 13,
     "title": "King's Disease III",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/kings-disease-iii.webp",
     "artist": "Nas",
     "releaseDate": "11/11/2022",
     "rating": 3.79,
@@ -106,6 +119,7 @@
   {
     "rank": 14,
     "title": "NO THANK YOU",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/no-thank-you.webp",
     "artist": "Little Simz",
     "releaseDate": "12/12/2022",
     "rating": 3.77,
@@ -114,6 +128,7 @@
   {
     "rank": 15,
     "title": "Mr. Morale & The Big Steppers",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/mmbs.webp",
     "artist": "Kendrick Lamar",
     "releaseDate": "5/13/2022",
     "rating": 3.67,
@@ -122,6 +137,7 @@
   {
     "rank": 16,
     "title": "Diaspora Problems",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/diaspora-problems.webp",
     "artist": "Soul Glo",
     "releaseDate": "3/25/2022",
     "rating": 3.71,
@@ -130,6 +146,7 @@
   {
     "rank": 17,
     "title": "The Ruby Cord",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/the-ruby-cord.webp",
     "artist": "Richard Dawson",
     "releaseDate": "11/18/2022",
     "rating": 3.74,
@@ -138,6 +155,7 @@
   {
     "rank": 18,
     "title": "There Will Be No Super-Slave",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/there-will-be-no-super-slave.webp",
     "artist": "Ghais Guevara",
     "releaseDate": "7/16/2022",
     "rating": 3.71,
@@ -146,6 +164,7 @@
   {
     "rank": 19,
     "title": "Hostile Architecture",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/hostile-architecture.webp",
     "artist": "Ashenspire",
     "releaseDate": "7/15/2022",
     "rating": 3.71,
@@ -154,6 +173,7 @@
   {
     "rank": 20,
     "title": "God Don't Make Mistakes",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/god-dont-make-mistakes.webp",
     "artist": "Conway the Machine",
     "releaseDate": "2/25/2022",
     "rating": 3.69,
@@ -162,6 +182,7 @@
   {
     "rank": 21,
     "title": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/idplmal.webp",
     "artist": "King Gizzard and The Lizard Wizard",
     "releaseDate": "10/7/2022",
     "rating": 3.7,
@@ -170,6 +191,7 @@
   {
     "rank": 22,
     "title": "God's Country",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/",
     "artist": "Chat Pile",
     "releaseDate": "7/29/2022",
     "rating": 3.67,
@@ -178,6 +200,7 @@
   {
     "rank": 23,
     "title": "A Light for Attracting Attention",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/alfaa.webp",
     "artist": "The Smile",
     "releaseDate": "5/13/2022",
     "rating": 3.66,
@@ -186,6 +209,7 @@
   {
     "rank": 24,
     "title": "Church",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/church.webp",
     "artist": "billy woods x Messiah Musik",
     "releaseDate": "9/30/2022",
     "rating": 3.69,
@@ -194,6 +218,7 @@
   {
     "rank": 25,
     "title": "Natural Brown Prom Queen",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/natural-brown-prom-queen.webp",
     "artist": "Sudan Archives",
     "releaseDate": "9/9/2022",
     "rating": 3.68,
@@ -202,6 +227,7 @@
   {
     "rank": 26,
     "title": "Ugly Season",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/ugly-season.webp",
     "artist": "Perfume Genius",
     "releaseDate": "6/17/2022",
     "rating": 3.66,
@@ -210,6 +236,7 @@
   {
     "rank": 27,
     "title": "Hiss",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/hiss.webp",
     "artist": "Wormrot",
     "releaseDate": "7/8/2022",
     "rating": 3.66,
@@ -218,6 +245,7 @@
   {
     "rank": 28,
     "title": "Suave pendiente",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/suave-pendiente.webp",
     "artist": "Niños del Cerro",
     "releaseDate": "10/13/2022",
     "rating": 3.67,
@@ -226,6 +254,7 @@
   {
     "rank": 29,
     "title": "Darklife",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/darklife.webp",
     "artist": "death's dynamic shroud",
     "releaseDate": "9/23/2022",
     "rating": 3.66,
@@ -234,6 +263,7 @@
   {
     "rank": 30,
     "title": "アイランド (Island)",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/island.webp",
     "artist": "Asunojokei明日の叙景",
     "releaseDate": "7/27/2022",
     "rating": 3.67,
@@ -242,6 +272,7 @@
   {
     "rank": 31,
     "title": "Gris Klein",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/gris-klein.webp",
     "artist": "Birds in Row",
     "releaseDate": "10/14/2022",
     "rating": 3.67,
@@ -250,6 +281,7 @@
   {
     "rank": 32,
     "title": "I Didn't Mean to Haunt You",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/i-didnt-mean-to-haunt-you.webp",
     "artist": "Quadeca",
     "releaseDate": "11/10/2022",
     "rating": 3.63,
@@ -258,6 +290,7 @@
   {
     "rank": 33,
     "title": "I Love You Jennifer B",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/i-love-you-jennifer-b.webp",
     "artist": "Jockstrap",
     "releaseDate": "9/9/2022",
     "rating": 3.63,
@@ -266,6 +299,7 @@
   {
     "rank": 34,
     "title": "Marchita",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/marchita.webp",
     "artist": "Silvana Estrada",
     "releaseDate": "1/21/2022",
     "rating": 3.65,
@@ -274,6 +308,7 @@
   {
     "rank": 35,
     "title": "Moon of Foul Magics",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/moon-of-foul-magics.webp",
     "artist": "Autonoesis",
     "releaseDate": "8/25/2022",
     "rating": 3.67,
@@ -282,6 +317,7 @@
   {
     "rank": 36,
     "title": "You Belong There",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/you-belong-there.webp",
     "artist": "Daniel Rossen",
     "releaseDate": "4/8/2022",
     "rating": 3.64,
@@ -290,6 +326,7 @@
   {
     "rank": 37,
     "title": "Renaissance",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/renaissance.webp",
     "artist": "Beyoncé",
     "releaseDate": "7/29/2022",
     "rating": 3.6,
@@ -298,6 +335,7 @@
   {
     "rank": 38,
     "title": "Omnium Gatherum",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/omnium-gatherum.webp",
     "artist": "King Gizzard and The Lizard Wizard",
     "releaseDate": "4/22/2022",
     "rating": 3.62,
@@ -306,6 +344,7 @@
   {
     "rank": 39,
     "title": "The Loser",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/the-loser.webp",
     "artist": "Gospel",
     "releaseDate": "5/13/2022",
     "rating": 3.63,
@@ -314,6 +353,7 @@
   {
     "rank": 40,
     "title": "Artificial Brain",
+    "img": "https://rym-tops.tomas-oa.workers.dev/static/2022_albums/artificial-brain.webp",
     "artist": "Artificial Brain",
     "releaseDate": "6/3/2022",
     "rating": 3.63,
