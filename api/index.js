@@ -1,4 +1,5 @@
 import { Hono } from 'hono'
+import { serveStatic } from 'hono/serve-static.module'
 import top from '../db/top2022.json'
 
 const app = new Hono()
@@ -15,5 +16,7 @@ app.get('/', (c) => {
 app.get('/2022', (c) => {
   return c.json(top)
 })
+
+app.get('/static/*', serveStatic({ root: './' }))
 
 export default app
