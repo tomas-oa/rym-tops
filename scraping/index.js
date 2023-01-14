@@ -3,6 +3,7 @@ import { writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
 const URLS = {
+  2023: 'https://rateyourmusic.com/charts/top/album/2023/',
   2022: 'https://rateyourmusic.com/charts/top/album/2022/',
   2021: 'https://rateyourmusic.com/charts/top/album/2021/',
   2020: 'https://rateyourmusic.com/charts/top/album/2020s/',
@@ -21,7 +22,7 @@ async function scrapeAlbums (url) {
 }
 
 async function getTop () {
-  const $ = await scrapeAlbums(URLS[2022])
+  const $ = await scrapeAlbums(URLS[2023])
   const rows = $(
     'section#page_charts_section_charts .page_section_charts_item_wrapper'
   )
@@ -77,6 +78,6 @@ async function getTop () {
 }
 
 const top = await getTop()
-const filePath = path.join(process.cwd(), './db/top2022.json')
+const filePath = path.join(process.cwd(), './db/top2023.json')
 
 await writeFile(filePath, JSON.stringify(top, null, 2))
