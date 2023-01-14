@@ -15,3 +15,5 @@ app.get('/', (c) => {
 app.get('/2022', (c) => {
   return c.json(top)
 })
+
+export default app
