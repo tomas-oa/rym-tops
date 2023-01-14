@@ -1,0 +1,322 @@
+[
+  {
+    "rank": 1,
+    "title": "Ants From Up There",
+    "artist": "Black Country, New Road",
+    "releaseDate": "2/4/2022",
+    "rating": 4.01,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 2,
+    "title": "Hellfire",
+    "artist": "black midi",
+    "releaseDate": "7/15/2022",
+    "rating": 3.93,
+    "genre": "Avant-Prog"
+  },
+  {
+    "rank": 3,
+    "title": "Dragon New Warm Mountain I Believe in You",
+    "artist": "Big Thief",
+    "releaseDate": "2/11/2022",
+    "rating": 3.91,
+    "genre": "Indie Folk"
+  },
+  {
+    "rank": 4,
+    "title": "Cheat Codes",
+    "artist": "Danger Mouse & Black Thought",
+    "releaseDate": "8/12/2022",
+    "rating": 3.93,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 5,
+    "title": "Aethiopes",
+    "artist": "billy woods",
+    "releaseDate": "4/8/2022",
+    "rating": 3.89,
+    "genre": "Abstract Hip Hop"
+  },
+  {
+    "rank": 6,
+    "title": "De todas las flores",
+    "artist": "Natalia Lafourcade",
+    "releaseDate": "10/28/2022",
+    "rating": 3.92,
+    "genre": "Singer-Songwriter"
+  },
+  {
+    "rank": 7,
+    "title": "The Forever Story",
+    "artist": "J.I.D",
+    "releaseDate": "8/26/2022",
+    "rating": 3.89,
+    "genre": "Southern Hip Hop"
+  },
+  {
+    "rank": 8,
+    "title": "卵 (Tamago)",
+    "artist": "betcover!!",
+    "releaseDate": "12/21/2022",
+    "rating": 3.87,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 9,
+    "title": "Blue Rev",
+    "artist": "Alvvays",
+    "releaseDate": "10/7/2022",
+    "rating": 3.78,
+    "genre": "Indie Pop"
+  },
+  {
+    "rank": 10,
+    "title": "And in the Darkness, Hearts Aglow",
+    "artist": "Weyes Blood",
+    "releaseDate": "11/18/2022",
+    "rating": 3.78,
+    "genre": "Baroque Pop"
+  },
+  {
+    "rank": 11,
+    "title": "Once Twice Melody",
+    "artist": "Beach House",
+    "releaseDate": "2/18/2022",
+    "rating": 3.77,
+    "genre": "Dream Pop"
+  },
+  {
+    "rank": 12,
+    "title": "Melt My Eyez See Your Future",
+    "artist": "Denzel Curry",
+    "releaseDate": "3/25/2022",
+    "rating": 3.76,
+    "genre": "Conscious Hip Hop"
+  },
+  {
+    "rank": 13,
+    "title": "King's Disease III",
+    "artist": "Nas",
+    "releaseDate": "11/11/2022",
+    "rating": 3.79,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 14,
+    "title": "NO THANK YOU",
+    "artist": "Little Simz",
+    "releaseDate": "12/12/2022",
+    "rating": 3.77,
+    "genre": "UK Hip Hop"
+  },
+  {
+    "rank": 15,
+    "title": "Mr. Morale & The Big Steppers",
+    "artist": "Kendrick Lamar",
+    "releaseDate": "5/13/2022",
+    "rating": 3.67,
+    "genre": "Conscious Hip Hop"
+  },
+  {
+    "rank": 16,
+    "title": "Diaspora Problems",
+    "artist": "Soul Glo",
+    "releaseDate": "3/25/2022",
+    "rating": 3.71,
+    "genre": "Hardcore Punk"
+  },
+  {
+    "rank": 17,
+    "title": "The Ruby Cord",
+    "artist": "Richard Dawson",
+    "releaseDate": "11/18/2022",
+    "rating": 3.74,
+    "genre": "Progressive Folk"
+  },
+  {
+    "rank": 18,
+    "title": "There Will Be No Super-Slave",
+    "artist": "Ghais Guevara",
+    "releaseDate": "7/16/2022",
+    "rating": 3.71,
+    "genre": "Political Hip Hop"
+  },
+  {
+    "rank": 19,
+    "title": "Hostile Architecture",
+    "artist": "Ashenspire",
+    "releaseDate": "7/15/2022",
+    "rating": 3.71,
+    "genre": "Avant-Garde Metal"
+  },
+  {
+    "rank": 20,
+    "title": "God Don't Make Mistakes",
+    "artist": "Conway the Machine",
+    "releaseDate": "2/25/2022",
+    "rating": 3.69,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 21,
+    "title": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
+    "artist": "King Gizzard and The Lizard Wizard",
+    "releaseDate": "10/7/2022",
+    "rating": 3.7,
+    "genre": "Jazz-Rock"
+  },
+  {
+    "rank": 22,
+    "title": "God's Country",
+    "artist": "Chat Pile",
+    "releaseDate": "7/29/2022",
+    "rating": 3.67,
+    "genre": "Noise Rock"
+  },
+  {
+    "rank": 23,
+    "title": "A Light for Attracting Attention",
+    "artist": "The Smile",
+    "releaseDate": "5/13/2022",
+    "rating": 3.66,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 24,
+    "title": "Church",
+    "artist": "billy woods x Messiah Musik",
+    "releaseDate": "9/30/2022",
+    "rating": 3.69,
+    "genre": "Abstract Hip Hop"
+  },
+  {
+    "rank": 25,
+    "title": "Natural Brown Prom Queen",
+    "artist": "Sudan Archives",
+    "releaseDate": "9/9/2022",
+    "rating": 3.68,
+    "genre": "Alternative R&B"
+  },
+  {
+    "rank": 26,
+    "title": "Ugly Season",
+    "artist": "Perfume Genius",
+    "releaseDate": "6/17/2022",
+    "rating": 3.66,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 27,
+    "title": "Hiss",
+    "artist": "Wormrot",
+    "releaseDate": "7/8/2022",
+    "rating": 3.66,
+    "genre": "Grindcore"
+  },
+  {
+    "rank": 28,
+    "title": "Suave pendiente",
+    "artist": "Niños del Cerro",
+    "releaseDate": "10/13/2022",
+    "rating": 3.67,
+    "genre": "Neo-Psychedelia"
+  },
+  {
+    "rank": 29,
+    "title": "Darklife",
+    "artist": "death's dynamic shroud",
+    "releaseDate": "9/23/2022",
+    "rating": 3.66,
+    "genre": "Glitch Pop"
+  },
+  {
+    "rank": 30,
+    "title": "アイランド (Island)",
+    "artist": "Asunojokei明日の叙景",
+    "releaseDate": "7/27/2022",
+    "rating": 3.67,
+    "genre": "Blackgaze"
+  },
+  {
+    "rank": 31,
+    "title": "Gris Klein",
+    "artist": "Birds in Row",
+    "releaseDate": "10/14/2022",
+    "rating": 3.67,
+    "genre": "Screamo"
+  },
+  {
+    "rank": 32,
+    "title": "I Didn't Mean to Haunt You",
+    "artist": "Quadeca",
+    "releaseDate": "11/10/2022",
+    "rating": 3.63,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 33,
+    "title": "I Love You Jennifer B",
+    "artist": "Jockstrap",
+    "releaseDate": "9/9/2022",
+    "rating": 3.63,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 34,
+    "title": "Marchita",
+    "artist": "Silvana Estrada",
+    "releaseDate": "1/21/2022",
+    "rating": 3.65,
+    "genre": "Chamber Folk"
+  },
+  {
+    "rank": 35,
+    "title": "Moon of Foul Magics",
+    "artist": "Autonoesis",
+    "releaseDate": "8/25/2022",
+    "rating": 3.67,
+    "genre": "Thrash Metal"
+  },
+  {
+    "rank": 36,
+    "title": "You Belong There",
+    "artist": "Daniel Rossen",
+    "releaseDate": "4/8/2022",
+    "rating": 3.64,
+    "genre": "Progressive Folk"
+  },
+  {
+    "rank": 37,
+    "title": "Renaissance",
+    "artist": "Beyoncé",
+    "releaseDate": "7/29/2022",
+    "rating": 3.6,
+    "genre": "Dance-Pop"
+  },
+  {
+    "rank": 38,
+    "title": "Omnium Gatherum",
+    "artist": "King Gizzard and The Lizard Wizard",
+    "releaseDate": "4/22/2022",
+    "rating": 3.62,
+    "genre": "Psychedelic Rock"
+  },
+  {
+    "rank": 39,
+    "title": "The Loser",
+    "artist": "Gospel",
+    "releaseDate": "5/13/2022",
+    "rating": 3.63,
+    "genre": "Post-Hardcore"
+  },
+  {
+    "rank": 40,
+    "title": "Artificial Brain",
+    "artist": "Artificial Brain",
+    "releaseDate": "6/3/2022",
+    "rating": 3.63,
+    "genre": "Dissonant Death Metal"
+  }
+]

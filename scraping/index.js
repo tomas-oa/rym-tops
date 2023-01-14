@@ -1,4 +1,6 @@
 import * as cheerio from 'cheerio'
+import { writeFile } from 'node:fs/promises'
+import path from 'node:path'
 
 const URLS = {
   2022: 'https://rateyourmusic.com/charts/top/album/2022/',
@@ -75,4 +77,6 @@ async function getTop () {
 }
 
 const top = await getTop()
-console.log(top)
+const filePath = path.join(process.cwd(), './db/top2022.json')
+
+await writeFile(filePath, JSON.stringify(top, null, 2))
