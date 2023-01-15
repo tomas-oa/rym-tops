@@ -2,7 +2,7 @@
   "name": "rym-tops",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "rate your music web scraper project",
   "main": "index.js",
   "scripts": {
     "dev:api": "wrangler dev api/index.js",
