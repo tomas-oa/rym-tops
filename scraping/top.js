@@ -1,6 +1,4 @@
-import * as cheerio from 'cheerio'
-import { writeFile } from 'node:fs/promises'
-import path from 'node:path'
+import { addToDB, scrape, clean } from './utils.js'
 
 const URLS = {
   2023: 'https://rateyourmusic.com/charts/top/album/2023/',
@@ -13,47 +11,19 @@ const URLS = {
   1980: 'https://rateyourmusic.com/charts/top/album/1980s/'
 }
 
-async function scrapeAlbums (url) {
-  const res = await fetch(url)
-  const html = await res.text()
-  const $ = cheerio.load(html)
-
-  return $
-}
-
 async function getTop () {
-  const $ = await scrapeAlbums(URLS[2023])
+  const $ = await scrape(URLS[2023])
   const rows = $(
     'section#page_charts_section_charts .page_section_charts_item_wrapper'
   )
 
-  const clean = (text) => text.replace(/\t|\n|\s:/g, '').trim()
-
   const TOP_SELECTOR = {
-    rank: {
-      selector: '.page_charts_section_charts_item_number',
-      type: 'number'
-    },
-    title: {
-      selector: '.page_charts_section_charts_item_title',
-      type: 'text'
-    },
-    artist: {
-      selector: '.page_charts_section_charts_item_credited_links_primary',
-      type: 'text'
-    },
-    releaseDate: {
-      selector: '.page_charts_section_charts_item_date span',
-      type: 'date'
-    },
-    rating: {
-      selector: 'span.page_charts_section_charts_item_details_average_num',
-      type: 'number'
-    },
-    genre: {
-      selector: '.page_charts_section_charts_item_genres_primary a',
-      type: 'text'
-    }
+    rank: { selector: '.page_charts_section_charts_item_number', type: 'number' },
+    title: { selector: '.page_charts_section_charts_item_title', type: 'text' },
+    artist: { selector: '.page_charts_section_charts_item_credited_links_primary', type: 'text' },
+    releaseDate: { selector: '.page_charts_section_charts_item_date span', type: 'date' },
+    rating: { selector: 'span.page_charts_section_charts_item_details_average_num', type: 'number' },
+    genre: { selector: '.page_charts_section_charts_item_genres_primary a', type: 'text' }
   }
 
   const data = []
@@ -78,6 +48,4 @@ async function getTop () {
 }
 
 const top = await getTop()
-const filePath = path.join(process.cwd(), './db/top2023.json')
-
-await writeFile(filePath, JSON.stringify(top, null, 2))
+await addToDB('top2023', top)
