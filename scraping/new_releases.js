@@ -12,7 +12,7 @@ async function getNew () {
     title: { selector: 'a.album.newreleases_item_title', type: 'text' },
     artist: { selector: 'span.newreleases_item_artist', type: 'text' },
     releaseDate: { selector: '.newreleases_item_releasedate', type: 'date' },
-    genre: { selector: '.newreleases_item_textbox_genre', type: 'text' }
+    genre: { selector: 'span.newreleases_item_genres', type: 'text' }
   }
 
   const data = []
