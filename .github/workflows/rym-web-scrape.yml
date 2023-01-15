@@ -31,7 +31,7 @@ jobs:
       - run: |
           node scraping/new_releases.js
           git config user.name rym-scrape-bot
-          git config user.emal tomas.opazoasd@gmail.com
+          git config user.email tomas.opazoasd@gmail.com
           git add .
           git commit -m "[auto] updated db"
           git push -u origin main
