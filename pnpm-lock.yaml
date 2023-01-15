@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   cheerio: 1.0.0-rc.12
   hono: 2.7.2
+  prettier: 2.8.3
   standard: 17.0.0
   vitest: ^0.27.1
   wrangler: 2.7.1
@@ -10,6 +11,7 @@ specifiers:
 dependencies:
   cheerio: 1.0.0-rc.12
   hono: 2.7.2
+  prettier: 2.8.3
 
 devDependencies:
   standard: 17.0.0
@@ -2388,6 +2390,12 @@ packages:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
     engines: {node: '>= 0.8.0'}
     dev: true
+
+  /prettier/2.8.3:
+    resolution: {integrity: sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: false
 
   /prop-types/15.8.1:
     resolution: {integrity: sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==}
