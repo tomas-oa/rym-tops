@@ -27,7 +27,7 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: 7.25.0
-      - run: 
+      - run: |
           node scraping/new_releases.js
           git config user.name rym-scrape-bot
           git add .
