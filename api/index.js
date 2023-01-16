@@ -23,15 +23,15 @@ app.get('/', (c) => {
   ])
 })
 
-app.get('/2022', (c) => {
+app.get('/2022\\/?', (c) => {
   return c.json(top2022)
 })
 
-app.get('/2023', (c) => {
+app.get('/2023\\/?', (c) => {
   return c.json(top2023)
 })
 
-app.get('/new_releases', (c) => {
+app.get('/new_releases\\/?', (c) => {
   return c.json(newReleases)
 })
 
