@@ -36,12 +36,6 @@
     "genre": "Singer-Songwriter,"
   },
   {
-    "title": "幸福星 (The Happy Star)",
-    "artist": "刘柏辛 [Lexie Liu]",
-    "releaseDate": "12/6/2022",
-    "genre": "Electropop,"
-  },
-  {
     "title": "Dreamglow",
     "artist": "Asian Glow & sonhos tomam conta",
     "releaseDate": "1/6/2023",
@@ -60,16 +54,16 @@
     "genre": null
   },
   {
-    "title": "不出来 (Fudeki)",
-    "artist": "tricot",
-    "releaseDate": "12/14/2022",
-    "genre": "J-Rock,"
-  },
-  {
     "title": "After the Magic",
     "artist": "파란노을 [Parannoul]",
     "releaseDate": "1/1/2023",
     "genre": null
+  },
+  {
+    "title": "不出来 (Fudeki)",
+    "artist": "tricot",
+    "releaseDate": "12/14/2022",
+    "genre": "J-Rock,"
   },
   {
     "title": "Hornet Disaster",
@@ -102,16 +96,16 @@
     "genre": "Black Metal"
   },
   {
-    "title": "Almighty So 2",
-    "artist": "Chief Keef",
-    "releaseDate": "1/20/2023",
-    "genre": null
-  },
-  {
     "title": "Every Loser",
     "artist": "Iggy Pop",
     "releaseDate": "1/6/2023",
     "genre": "Garage Rock Revival"
+  },
+  {
+    "title": "Almighty So 2",
+    "artist": "Chief Keef",
+    "releaseDate": "1/20/2023",
+    "genre": null
   },
   {
     "title": "結束バンド (kessoku band)",
@@ -132,6 +126,12 @@
     "genre": "Glitch Pop,"
   },
   {
+    "title": "Dealer's Choice",
+    "artist": "Dealers of God",
+    "releaseDate": "1/1/2023",
+    "genre": "Experimental Hip Hop,"
+  },
+  {
     "title": "Does Spring Hide Its Joy",
     "artist": "Kali Malone",
     "releaseDate": "1/20/2023",
@@ -144,9 +144,9 @@
     "genre": null
   },
   {
-    "title": "Dealer's Choice",
-    "artist": "Dealers of God",
-    "releaseDate": "1/1/2023",
-    "genre": "Experimental Hip Hop,"
+    "title": "Dawn of the Final Hour",
+    "artist": "Kinoteki",
+    "releaseDate": "1/5/2023",
+    "genre": "Footwork Jungle,"
   }
 ]
