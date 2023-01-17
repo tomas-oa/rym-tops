@@ -102,12 +102,6 @@
     "genre": "Garage Rock Revival"
   },
   {
-    "title": "Almighty So 2",
-    "artist": "Chief Keef",
-    "releaseDate": "1/20/2023",
-    "genre": null
-  },
-  {
     "title": "結束バンド (kessoku band)",
     "artist": "結束バンド [kessoku band]",
     "releaseDate": "12/28/2022",
@@ -148,5 +142,11 @@
     "artist": "Oxbow",
     "releaseDate": "1/1/2023",
     "genre": null
+  },
+  {
+    "title": "Dawn of the Final Hour",
+    "artist": "Kinoteki",
+    "releaseDate": "1/5/2023",
+    "genre": "Footwork Jungle,"
   }
 ]
