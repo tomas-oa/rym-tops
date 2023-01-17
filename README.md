@@ -5,7 +5,7 @@
 ## API
 https://rym-tops.tomas-oa.workers.dev
 
-Fed by the new releases tab of RYM and updated every Tuesday all the other endpoints are not updated since I don't think it's necessary
+All the info is obtained by scraping RYM and the **new releases endpoint it's updated every Tuesday.**
 
 ## Endpoints
 GET: ```/new_releases``` Returns top 40 albums rated by rym
@@ -20,3 +20,5 @@ GET: ```/2023``` Returns top 40 albums rated by rym
 - [Cheerio](https://cheerio.js.org/) for web scraping
 - [vitest](https://vitest.dev/) for unit testing
 - [pnpm](https://pnpm.io/) as node package manager
+- [Github actions](https://github.com/features/actions) to automate scraping with cron job
+
