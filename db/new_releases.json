@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "title": "Let's Start Here.",
+    "artist": "Lil Yachty",
+    "releaseDate": "1/27/2023",
+    "genre": "Neo-Psychedelia,"
+  },
+  {
+    "title": "After the Magic",
+    "artist": "파란노을 [Parannoul]",
+    "releaseDate": "1/28/2023",
+    "genre": "Shoegaze,"
+  },
+  {
+    "title": "Does Spring Hide Its Joy",
+    "artist": "Kali Malone",
+    "releaseDate": "1/20/2023",
+    "genre": "Drone,"
+  },
+  {
+    "title": "12",
+    "artist": "Ryuichi Sakamoto",
+    "releaseDate": "1/17/2023",
+    "genre": "Ambient,"
+  },
+  {
+    "title": "棲居在溪源之上 (Seeking the Sources of Streams)",
+    "artist": "Cicada",
+    "releaseDate": "1/6/2023",
+    "genre": "Chamber Music,"
+  },
+  {
+    "title": "Songs of a Lost World",
+    "artist": "The Cure",
+    "releaseDate": "1/1/2023",
+    "genre": null
+  },
+  {
+    "title": "Married in Mount Airy",
+    "artist": "Nicole Dollanganger",
+    "releaseDate": "1/6/2023",
+    "genre": "Singer-Songwriter,"
+  },
+  {
+    "title": "Desire, I Want to Turn Into You",
+    "artist": "Caroline Polachek",
+    "releaseDate": "2/14/2023",
+    "genre": null
+  },
+  {
+    "title": "Mercy",
+    "artist": "John Cale",
+    "releaseDate": "1/20/2023",
+    "genre": "Art Pop,"
+  },
+  {
+    "title": "Dreamglow",
+    "artist": "Asian Glow & sonhos tomam conta",
+    "releaseDate": "1/6/2023",
+    "genre": "Shoegaze,"
+  },
+  {
+    "title": "This Stupid World",
+    "artist": "Yo La Tengo",
+    "releaseDate": "2/10/2023",
+    "genre": "Indie Rock,"
+  },
+  {
+    "title": "This Is Why",
+    "artist": "Paramore",
+    "releaseDate": "2/10/2023",
+    "genre": null
+  },
+  {
+    "title": "Heavy Heavy",
+    "artist": "Young Fathers",
+    "releaseDate": "2/3/2023",
+    "genre": "Neo-Psychedelia,"
+  },
+  {
+    "title": "Burned Car Highway Light Volcanic",
+    "artist": "Prizes Roses Rosa (p rosa) (panda rosa)",
+    "releaseDate": "1/19/2023",
+    "genre": "Neo-Psychedelia,"
+  },
+  {
+    "title": "Quaranta",
+    "artist": "Danny Brown",
+    "releaseDate": "1/1/2023",
+    "genre": null
+  },
+  {
+    "title": "Raven",
+    "artist": "Kelela",
+    "releaseDate": "2/10/2023",
+    "genre": null
+  },
+  {
+    "title": "Crépuscule I & II",
+    "artist": "Tujiko Noriko",
+    "releaseDate": "1/13/2023",
+    "genre": "Ambient,"
+  },
+  {
+    "title": "Dealer's Choice",
+    "artist": "Dealers of God",
+    "releaseDate": "1/1/2023",
+    "genre": "Neo-Psychedelia,"
+  },
+  {
+    "title": "Dawn of the Final Hour",
+    "artist": "Kinoteki",
+    "releaseDate": "1/5/2023",
+    "genre": "Footwork Jungle"
+  },
+  {
+    "title": "Gigi's Recovery",
+    "artist": "The Murder Capital",
+    "releaseDate": "1/20/2023",
+    "genre": "Post-Punk Revival"
+  },
+  {
+    "title": "映帶する煙 (Eitai suru kemuri)",
+    "artist": "君島大空 [Ohzora Kimishima]",
+    "releaseDate": "1/18/2023",
+    "genre": "Indie Pop,"
+  },
+  {
+    "title": "Sky Void of Stars",
+    "artist": "Katatonia",
+    "releaseDate": "1/20/2023",
+    "genre": "Alternative Metal"
+  },
+  {
+    "title": "Hornet Disaster",
+    "artist": "Weatherday",
+    "releaseDate": "1/1/2023",
+    "genre": null
+  },
+  {
+    "title": "ID.Entity",
+    "artist": "Riverside",
+    "releaseDate": "1/20/2023",
+    "genre": "Progressive Rock"
+  },
+  {
+    "title": "Five Easy Hot Dogs",
+    "artist": "Mac DeMarco",
+    "releaseDate": "1/20/2023",
+    "genre": "Soft Rock"
+  }
+]
