@@ -36,16 +36,16 @@
     "genre": "Neo-Psychedelia,"
   },
   {
-    "title": "Does Spring Hide Its Joy",
-    "artist": "Kali Malone",
-    "releaseDate": "1/20/2023",
-    "genre": "Drone,"
-  },
-  {
     "title": "Desire, I Want to Turn Into You",
     "artist": "Caroline Polachek",
     "releaseDate": "2/14/2023",
     "genre": "Art Pop,"
+  },
+  {
+    "title": "Does Spring Hide Its Joy",
+    "artist": "Kali Malone",
+    "releaseDate": "1/20/2023",
+    "genre": "Drone,"
   },
   {
     "title": "12",
@@ -126,6 +126,12 @@
     "genre": "Art Pop,"
   },
   {
+    "title": "Sugar World",
+    "artist": "jonatan leandoer96",
+    "releaseDate": "2/3/2023",
+    "genre": "Singer-Songwriter,"
+  },
+  {
     "title": "ID.Entity",
     "artist": "Riverside",
     "releaseDate": "1/20/2023",
@@ -136,12 +142,6 @@
     "artist": "Mac DeMarco",
     "releaseDate": "1/20/2023",
     "genre": "Soft Rock"
-  },
-  {
-    "title": "Sugar World",
-    "artist": "jonatan leandoer96",
-    "releaseDate": "2/3/2023",
-    "genre": "Singer-Songwriter,"
   },
   {
     "title": "The Coral Tombs",
