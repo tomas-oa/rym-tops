@@ -1,21 +1,9 @@
 [
   {
-    "title": "Maps",
-    "artist": "billy woods & Kenny Segal",
-    "releaseDate": "5/5/2023",
-    "genre": "Abstract Hip Hop,"
-  },
-  {
     "title": "The Beggar",
     "artist": "Swans",
     "releaseDate": "6/23/2023",
     "genre": "Post-Rock,"
-  },
-  {
-    "title": "The Gray in Between",
-    "artist": "Jeromes Dream",
-    "releaseDate": "5/5/2023",
-    "genre": "Screamo,"
   },
   {
     "title": "O Monolith",
@@ -24,10 +12,10 @@
     "genre": "Experimental Rock,"
   },
   {
-    "title": "Tracey Denim",
-    "artist": "bar italia",
-    "releaseDate": "5/19/2023",
-    "genre": "Slacker Rock"
+    "title": "Space Heavy",
+    "artist": "King Krule",
+    "releaseDate": "6/9/2023",
+    "genre": "Neo-Psychedelia,"
   },
   {
     "title": "But Here We Are",
@@ -36,16 +24,34 @@
     "genre": "Alternative Rock"
   },
   {
-    "title": "Space Heavy",
-    "artist": "King Krule",
-    "releaseDate": "6/9/2023",
-    "genre": "Neo-Psychedelia,"
+    "title": "Tracey Denim",
+    "artist": "bar italia",
+    "releaseDate": "5/19/2023",
+    "genre": "Slacker Rock"
+  },
+  {
+    "title": "In Times New Roman...",
+    "artist": "Queens of the Stone Age",
+    "releaseDate": "6/16/2023",
+    "genre": "Alternative Rock,"
   },
   {
     "title": "Formal Growth in the Desert",
     "artist": "Protomartyr",
     "releaseDate": "6/2/2023",
     "genre": "Post-Punk,"
+  },
+  {
+    "title": "PetroDragonic Apocalypse;  or,  Dawn of Eternal Night:  An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
+    "artist": "King Gizzard and The Lizard Wizard",
+    "releaseDate": "6/16/2023",
+    "genre": "Progressive Metal,"
+  },
+  {
+    "title": "Beloved! Paradise! Jazz!?",
+    "artist": "McKinley Dixon",
+    "releaseDate": "6/2/2023",
+    "genre": "Jazz Rap,"
   },
   {
     "title": "Úpal",
@@ -60,34 +66,16 @@
     "genre": "Post-Minimalism"
   },
   {
-    "title": "Everything Harmony",
-    "artist": "The Lemon Twigs",
-    "releaseDate": "5/5/2023",
-    "genre": "Soft Rock,"
-  },
-  {
     "title": "Gag Order",
     "artist": "Kesha",
     "releaseDate": "5/19/2023",
     "genre": "Alt-Pop,"
   },
   {
-    "title": "Beloved! Paradise! Jazz!?",
-    "artist": "McKinley Dixon",
-    "releaseDate": "6/2/2023",
-    "genre": "Jazz Rap,"
-  },
-  {
-    "title": "In Times New Roman...",
-    "artist": "Queens of the Stone Age",
+    "title": "ÁTTA",
+    "artist": "Sigur Rós",
     "releaseDate": "6/16/2023",
-    "genre": "Alternative Rock,"
-  },
-  {
-    "title": "Failed at Math(s)",
-    "artist": "Panchiko",
-    "releaseDate": "5/5/2023",
-    "genre": "Indietronica,"
+    "genre": "Ambient,"
   },
   {
     "title": "Purge",
@@ -102,22 +90,22 @@
     "genre": "Avant-Garde Metal,"
   },
   {
-    "title": "Terrasite",
-    "artist": "Cattle Decapitation",
-    "releaseDate": "5/12/2023",
-    "genre": "Death Metal"
-  },
-  {
     "title": "Hive Mind Narcosis",
     "artist": "Thantifaxath",
     "releaseDate": "6/2/2023",
     "genre": "Black Metal"
   },
   {
-    "title": "Kaytraminé",
-    "artist": "Kaytraminé",
-    "releaseDate": "5/19/2023",
-    "genre": "Pop Rap,"
+    "title": "The Age of Pleasure",
+    "artist": "Janelle Monáe",
+    "releaseDate": "6/9/2023",
+    "genre": "Contemporary R&B,"
+  },
+  {
+    "title": "Life Is But a Dream…",
+    "artist": "Avenged Sevenfold",
+    "releaseDate": "6/2/2023",
+    "genre": "Progressive Metal,"
   },
   {
     "title": "The Girl Is Crying in Her Latte",
@@ -126,27 +114,39 @@
     "genre": "Art Pop,"
   },
   {
-    "title": "Take Me Back to Eden",
-    "artist": "Sleep Token",
+    "title": "Terrasite",
+    "artist": "Cattle Decapitation",
+    "releaseDate": "5/12/2023",
+    "genre": "Death Metal"
+  },
+  {
+    "title": "Kaytraminé",
+    "artist": "Kaytraminé",
     "releaseDate": "5/19/2023",
-    "genre": "Alternative Metal,"
-  },
-  {
-    "title": "Secret Life",
-    "artist": "Fred again.. & Brian Eno",
-    "releaseDate": "5/5/2023",
-    "genre": "Ambient"
-  },
-  {
-    "title": "PetroDragonic Apocalypse;  or,  Dawn of Eternal Night:  An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
-    "artist": "King Gizzard and The Lizard Wizard",
-    "releaseDate": "6/16/2023",
-    "genre": null
+    "genre": "Pop Rap,"
   },
   {
     "title": "Dog Dreams (개꿈)",
     "artist": "Lucy Liyou",
     "releaseDate": "5/12/2023",
     "genre": "Electroacoustic,"
+  },
+  {
+    "title": "Take Me Back to Eden",
+    "artist": "Sleep Token",
+    "releaseDate": "5/19/2023",
+    "genre": "Alternative Metal,"
+  },
+  {
+    "title": "Good Lies",
+    "artist": "Overmono",
+    "releaseDate": "5/12/2023",
+    "genre": "UK Bass,"
+  },
+  {
+    "title": "To Be Cruel",
+    "artist": "Khanate",
+    "releaseDate": "5/19/2023",
+    "genre": "Drone Metal"
   }
 ]
