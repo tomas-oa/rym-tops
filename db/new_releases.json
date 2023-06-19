@@ -36,16 +36,16 @@
     "genre": "Alternative Rock,"
   },
   {
-    "title": "Formal Growth in the Desert",
-    "artist": "Protomartyr",
-    "releaseDate": "6/2/2023",
-    "genre": "Post-Punk,"
-  },
-  {
     "title": "PetroDragonic Apocalypse;  or,  Dawn of Eternal Night:  An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
     "artist": "King Gizzard and The Lizard Wizard",
     "releaseDate": "6/16/2023",
     "genre": "Progressive Metal,"
+  },
+  {
+    "title": "Formal Growth in the Desert",
+    "artist": "Protomartyr",
+    "releaseDate": "6/2/2023",
+    "genre": "Post-Punk,"
   },
   {
     "title": "Beloved! Paradise! Jazz!?",
@@ -66,16 +66,16 @@
     "genre": "Post-Minimalism"
   },
   {
-    "title": "Gag Order",
-    "artist": "Kesha",
-    "releaseDate": "5/19/2023",
-    "genre": "Alt-Pop,"
-  },
-  {
     "title": "ÁTTA",
     "artist": "Sigur Rós",
     "releaseDate": "6/16/2023",
     "genre": "Ambient,"
+  },
+  {
+    "title": "Gag Order",
+    "artist": "Kesha",
+    "releaseDate": "5/19/2023",
+    "genre": "Alt-Pop,"
   },
   {
     "title": "Purge",
@@ -141,12 +141,12 @@
     "title": "Good Lies",
     "artist": "Overmono",
     "releaseDate": "5/12/2023",
-    "genre": "UK Bass,"
+    "genre": "UK Bass"
   },
   {
-    "title": "To Be Cruel",
-    "artist": "Khanate",
-    "releaseDate": "5/19/2023",
-    "genre": "Drone Metal"
+    "title": "Knower Forever",
+    "artist": "KNOWER",
+    "releaseDate": "6/2/2023",
+    "genre": "Jazz-Funk,"
   }
 ]
