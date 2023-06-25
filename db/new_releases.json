@@ -18,6 +18,18 @@
     "genre": "Neo-Psychedelia,"
   },
   {
+    "title": "PetroDragonic Apocalypse;  or,  Dawn of Eternal Night:  An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
+    "artist": "King Gizzard and The Lizard Wizard",
+    "releaseDate": "6/16/2023",
+    "genre": "Progressive Metal,"
+  },
+  {
+    "title": "In Times New Roman...",
+    "artist": "Queens of the Stone Age",
+    "releaseDate": "6/16/2023",
+    "genre": "Alternative Rock,"
+  },
+  {
     "title": "But Here We Are",
     "artist": "Foo Fighters",
     "releaseDate": "6/2/2023",
@@ -30,16 +42,10 @@
     "genre": "Slacker Rock"
   },
   {
-    "title": "In Times New Roman...",
-    "artist": "Queens of the Stone Age",
-    "releaseDate": "6/16/2023",
-    "genre": "Alternative Rock,"
-  },
-  {
-    "title": "PetroDragonic Apocalypse;  or,  Dawn of Eternal Night:  An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
-    "artist": "King Gizzard and The Lizard Wizard",
-    "releaseDate": "6/16/2023",
-    "genre": "Progressive Metal,"
+    "title": "Beloved! Paradise! Jazz!?",
+    "artist": "McKinley Dixon",
+    "releaseDate": "6/2/2023",
+    "genre": "Jazz Rap,"
   },
   {
     "title": "Formal Growth in the Desert",
@@ -48,28 +54,16 @@
     "genre": "Post-Punk,"
   },
   {
-    "title": "Beloved! Paradise! Jazz!?",
-    "artist": "McKinley Dixon",
-    "releaseDate": "6/2/2023",
-    "genre": "Jazz Rap,"
+    "title": "ÁTTA",
+    "artist": "Sigur Rós",
+    "releaseDate": "6/16/2023",
+    "genre": "Ambient,"
   },
   {
     "title": "Úpal",
     "artist": "Kostnatění",
     "releaseDate": "5/26/2023",
     "genre": "Black Metal"
-  },
-  {
-    "title": "When We Were That What Wept for the Sea",
-    "artist": "Colin Stetson",
-    "releaseDate": "5/12/2023",
-    "genre": "Post-Minimalism"
-  },
-  {
-    "title": "ÁTTA",
-    "artist": "Sigur Rós",
-    "releaseDate": "6/16/2023",
-    "genre": "Ambient,"
   },
   {
     "title": "Gag Order",
@@ -82,6 +76,12 @@
     "artist": "Godflesh",
     "releaseDate": "6/9/2023",
     "genre": "Industrial Metal"
+  },
+  {
+    "title": "Knower Forever",
+    "artist": "KNOWER",
+    "releaseDate": "6/2/2023",
+    "genre": "Jazz-Funk,"
   },
   {
     "title": "Dance You Monster to My Soft Song!",
@@ -114,22 +114,16 @@
     "genre": "Art Pop,"
   },
   {
-    "title": "Terrasite",
-    "artist": "Cattle Decapitation",
-    "releaseDate": "5/12/2023",
-    "genre": "Death Metal"
-  },
-  {
     "title": "Kaytraminé",
     "artist": "Kaytraminé",
     "releaseDate": "5/19/2023",
     "genre": "Pop Rap,"
   },
   {
-    "title": "Dog Dreams (개꿈)",
-    "artist": "Lucy Liyou",
-    "releaseDate": "5/12/2023",
-    "genre": "Electroacoustic,"
+    "title": "Blossom",
+    "artist": "Pupil Slicer",
+    "releaseDate": "6/2/2023",
+    "genre": "Mathcore"
   },
   {
     "title": "Take Me Back to Eden",
@@ -138,15 +132,21 @@
     "genre": "Alternative Metal,"
   },
   {
-    "title": "Good Lies",
-    "artist": "Overmono",
-    "releaseDate": "5/12/2023",
-    "genre": "UK Bass"
+    "title": "The Whaler",
+    "artist": "Home Is Where",
+    "releaseDate": "6/16/2023",
+    "genre": "Midwest Emo,"
   },
   {
-    "title": "Knower Forever",
-    "artist": "KNOWER",
-    "releaseDate": "6/2/2023",
-    "genre": "Jazz-Funk,"
+    "title": "Weathervanes",
+    "artist": "Jason Isbell and The 400 Unit",
+    "releaseDate": "6/9/2023",
+    "genre": "Alt-Country,"
+  },
+  {
+    "title": "Fountain Baby",
+    "artist": "Amaarae",
+    "releaseDate": "6/9/2023",
+    "genre": "Afrobeats,"
   }
 ]
