@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "title": "The Beggar",
+    "artist": "Swans",
+    "releaseDate": "6/23/2023",
+    "genre": "Post-Rock,"
+  },
+  {
+    "title": "O Monolith",
+    "artist": "Squid",
+    "releaseDate": "6/9/2023",
+    "genre": "Experimental Rock,"
+  },
+  {
+    "title": "PetroDragonic Apocalypse;  or,  Dawn of Eternal Night:  An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
+    "artist": "King Gizzard and The Lizard Wizard",
+    "releaseDate": "6/16/2023",
+    "genre": "Progressive Metal,"
+  },
+  {
+    "title": "Space Heavy",
+    "artist": "King Krule",
+    "releaseDate": "6/9/2023",
+    "genre": "Neo-Psychedelia,"
+  },
+  {
+    "title": "In Times New Roman...",
+    "artist": "Queens of the Stone Age",
+    "releaseDate": "6/16/2023",
+    "genre": "Alternative Rock,"
+  },
+  {
+    "title": "But Here We Are",
+    "artist": "Foo Fighters",
+    "releaseDate": "6/2/2023",
+    "genre": "Alternative Rock"
+  },
+  {
+    "title": "Beloved! Paradise! Jazz!?",
+    "artist": "McKinley Dixon",
+    "releaseDate": "6/2/2023",
+    "genre": "Jazz Rap,"
+  },
+  {
+    "title": "ÁTTA",
+    "artist": "Sigur Rós",
+    "releaseDate": "6/16/2023",
+    "genre": "Ambient,"
+  },
+  {
+    "title": "Knower Forever",
+    "artist": "KNOWER",
+    "releaseDate": "6/2/2023",
+    "genre": "Jazz-Funk,"
+  },
+  {
+    "title": "Formal Growth in the Desert",
+    "artist": "Protomartyr",
+    "releaseDate": "6/2/2023",
+    "genre": "Post-Punk,"
+  },
+  {
+    "title": "3D Country",
+    "artist": "Geese",
+    "releaseDate": "6/23/2023",
+    "genre": "Indie Rock,"
+  },
+  {
+    "title": "I Inside the Old Year Dying",
+    "artist": "PJ Harvey",
+    "releaseDate": "7/7/2023",
+    "genre": "Singer-Songwriter,"
+  },
+  {
+    "title": "Purge",
+    "artist": "Godflesh",
+    "releaseDate": "6/9/2023",
+    "genre": "Industrial Metal"
+  },
+  {
+    "title": "The Whaler",
+    "artist": "Home Is Where",
+    "releaseDate": "6/16/2023",
+    "genre": "Midwest Emo,"
+  },
+  {
+    "title": "DATA",
+    "artist": "Tainy",
+    "releaseDate": "6/29/2023",
+    "genre": "Reggaetón"
+  },
+  {
+    "title": "Hive Mind Narcosis",
+    "artist": "Thantifaxath",
+    "releaseDate": "6/2/2023",
+    "genre": "Black Metal"
+  },
+  {
+    "title": "The Age of Pleasure",
+    "artist": "Janelle Monáe",
+    "releaseDate": "6/9/2023",
+    "genre": "Contemporary R&B,"
+  },
+  {
+    "title": "Picture of Bunny Rabbit",
+    "artist": "Arthur Russell",
+    "releaseDate": "6/23/2023",
+    "genre": "Avant-Folk,"
+  },
+  {
+    "title": "Pink Tape",
+    "artist": "Lil Uzi Vert",
+    "releaseDate": "6/30/2023",
+    "genre": "Trap,"
+  },
+  {
+    "title": "Blossom",
+    "artist": "Pupil Slicer",
+    "releaseDate": "6/2/2023",
+    "genre": "Mathcore"
+  },
+  {
+    "title": "Life Is But a Dream…",
+    "artist": "Avenged Sevenfold",
+    "releaseDate": "6/2/2023",
+    "genre": "Progressive Metal,"
+  },
+  {
+    "title": "Weathervanes",
+    "artist": "Jason Isbell and The 400 Unit",
+    "releaseDate": "6/9/2023",
+    "genre": "Alt-Country,"
+  },
+  {
+    "title": "Girl With Fish",
+    "artist": "Feeble Little Horse",
+    "releaseDate": "6/9/2023",
+    "genre": "Slacker Rock,"
+  },
+  {
+    "title": "Fountain Baby",
+    "artist": "Amaarae",
+    "releaseDate": "6/9/2023",
+    "genre": "Afrobeats,"
+  },
+  {
+    "title": "Paranoïa, Angels, True Love",
+    "artist": "Christine and the Queens",
+    "releaseDate": "6/9/2023",
+    "genre": "Art Pop,"
+  }
+]
