@@ -72,6 +72,12 @@
     "genre": "Singer-Songwriter,"
   },
   {
+    "title": "DATA",
+    "artist": "Tainy",
+    "releaseDate": "6/29/2023",
+    "genre": "Reggaetón"
+  },
+  {
     "title": "Purge",
     "artist": "Godflesh",
     "releaseDate": "6/9/2023",
@@ -84,22 +90,16 @@
     "genre": "Midwest Emo,"
   },
   {
-    "title": "DATA",
-    "artist": "Tainy",
-    "releaseDate": "6/29/2023",
-    "genre": "Reggaetón"
+    "title": "The Age of Pleasure",
+    "artist": "Janelle Monáe",
+    "releaseDate": "6/9/2023",
+    "genre": "Contemporary R&B,"
   },
   {
     "title": "Hive Mind Narcosis",
     "artist": "Thantifaxath",
     "releaseDate": "6/2/2023",
     "genre": "Black Metal"
-  },
-  {
-    "title": "The Age of Pleasure",
-    "artist": "Janelle Monáe",
-    "releaseDate": "6/9/2023",
-    "genre": "Contemporary R&B,"
   },
   {
     "title": "Picture of Bunny Rabbit",
@@ -114,16 +114,16 @@
     "genre": "Trap,"
   },
   {
-    "title": "Blossom",
-    "artist": "Pupil Slicer",
-    "releaseDate": "6/2/2023",
-    "genre": "Mathcore"
-  },
-  {
     "title": "Life Is But a Dream…",
     "artist": "Avenged Sevenfold",
     "releaseDate": "6/2/2023",
     "genre": "Progressive Metal,"
+  },
+  {
+    "title": "Blossom",
+    "artist": "Pupil Slicer",
+    "releaseDate": "6/2/2023",
+    "genre": "Mathcore"
   },
   {
     "title": "Weathervanes",
