@@ -1,0 +1,322 @@
+[
+  {
+    "rank": 1,
+    "title": "Madvillainy",
+    "artist": "Madvillain",
+    "releaseDate": "3/23/2004",
+    "rating": 4.33,
+    "genre": "Abstract Hip Hop"
+  },
+  {
+    "rank": 2,
+    "title": "Kid A",
+    "artist": "Radiohead",
+    "releaseDate": "10/3/2000",
+    "rating": 4.25,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 3,
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "releaseDate": "10/10/2007",
+    "rating": 4.28,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 4,
+    "title": "Lift Yr. Skinny Fists Like Antennas to Heaven!",
+    "artist": "Godspeed You Black Emperor!",
+    "releaseDate": "10/9/2000",
+    "rating": 4.21,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 5,
+    "title": "Vespertine",
+    "artist": "Björk",
+    "releaseDate": "8/27/2001",
+    "rating": 4.22,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 6,
+    "title": "The Glow Pt. 2",
+    "artist": "The Microphones",
+    "releaseDate": "9/11/2001",
+    "rating": 4.15,
+    "genre": "Indie Folk"
+  },
+  {
+    "rank": 7,
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "releaseDate": "2/10/2004",
+    "rating": 4.1,
+    "genre": "Chipmunk Soul"
+  },
+  {
+    "rank": 8,
+    "title": "MM..FOOD",
+    "artist": "MF DOOM",
+    "releaseDate": "11/16/2004",
+    "rating": 4.13,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 9,
+    "title": "Illinois",
+    "artist": "Sufjan Stevens",
+    "releaseDate": "7/5/2005",
+    "rating": 4.11,
+    "genre": "Chamber Pop"
+  },
+  {
+    "rank": 10,
+    "title": "Donuts",
+    "artist": "J Dilla",
+    "releaseDate": "2/7/2006",
+    "rating": 4.11,
+    "genre": "Instrumental Hip Hop"
+  },
+  {
+    "rank": 11,
+    "title": "Deathconsciousness",
+    "artist": "Have a Nice Life",
+    "releaseDate": "1/24/2008",
+    "rating": 4.07,
+    "genre": "Post-Punk"
+  },
+  {
+    "rank": 12,
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "releaseDate": "3/13/2001",
+    "rating": 4.05,
+    "genre": "French House"
+  },
+  {
+    "rank": 13,
+    "title": "Late Registration",
+    "artist": "Kanye West",
+    "releaseDate": "8/30/2005",
+    "rating": 4.02,
+    "genre": "Pop Rap"
+  },
+  {
+    "rank": 14,
+    "title": "Velocity Design Comfort",
+    "artist": "Sweet Trip",
+    "releaseDate": "6/17/2003",
+    "rating": 4.06,
+    "genre": "Glitch Pop"
+  },
+  {
+    "rank": 15,
+    "title": "Since I Left You",
+    "artist": "The Avalanches",
+    "releaseDate": "11/27/2000",
+    "rating": 4.04,
+    "genre": "Plunderphonics"
+  },
+  {
+    "rank": 16,
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "releaseDate": "8/20/2001",
+    "rating": 3.97,
+    "genre": "Garage Rock Revival"
+  },
+  {
+    "rank": 17,
+    "title": "The Fire This Time",
+    "artist": null,
+    "releaseDate": "9/1/2002",
+    "rating": 4.13,
+    "genre": "Spoken Word"
+  },
+  {
+    "rank": 18,
+    "title": "Funeral",
+    "artist": "Arcade Fire",
+    "releaseDate": "9/14/2004",
+    "rating": 3.95,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 19,
+    "title": "Ys",
+    "artist": "Joanna Newsom",
+    "releaseDate": "11/14/2006",
+    "rating": 4.03,
+    "genre": "Chamber Folk"
+  },
+  {
+    "rank": 20,
+    "title": "Leaves Turn Inside You",
+    "artist": "Unwound",
+    "releaseDate": "4/17/2001",
+    "rating": 4.04,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 21,
+    "title": "You Will Never Know Why",
+    "artist": "Sweet Trip",
+    "releaseDate": "9/28/2009",
+    "rating": 4.04,
+    "genre": "Indie Pop"
+  },
+  {
+    "rank": 22,
+    "title": "Untrue",
+    "artist": "Burial",
+    "releaseDate": "11/5/2007",
+    "rating": 3.98,
+    "genre": "Future Garage"
+  },
+  {
+    "rank": 23,
+    "title": "Turn on the Bright Lights",
+    "artist": "Interpol",
+    "releaseDate": "8/20/2002",
+    "rating": 3.95,
+    "genre": "Post-Punk Revival"
+  },
+  {
+    "rank": 24,
+    "title": "Geogaddi",
+    "artist": "Boards of Canada",
+    "releaseDate": "2/18/2002",
+    "rating": 4,
+    "genre": "IDM"
+  },
+  {
+    "rank": 25,
+    "title": "The Magnolia Electric Co.",
+    "artist": "Magnolia Electric Co.",
+    "releaseDate": "3/4/2003",
+    "rating": 4.04,
+    "genre": "Alt-Country"
+  },
+  {
+    "rank": 26,
+    "title": "Songs for the Deaf",
+    "artist": "Queens of the Stone Age",
+    "releaseDate": "8/27/2002",
+    "rating": 3.97,
+    "genre": "Stoner Rock"
+  },
+  {
+    "rank": 27,
+    "title": "Mount Eerie",
+    "artist": "The Microphones",
+    "releaseDate": "1/21/2003",
+    "rating": 4.02,
+    "genre": "Avant-Folk"
+  },
+  {
+    "rank": 28,
+    "title": "Dopethrone",
+    "artist": "Electric Wizard",
+    "releaseDate": "9/25/2000",
+    "rating": 4,
+    "genre": "Stoner Metal"
+  },
+  {
+    "rank": 29,
+    "title": "Boris at Last -Feedbacker-",
+    "artist": "Boris",
+    "releaseDate": "12/25/2003",
+    "rating": 3.99,
+    "genre": "Post-Metal"
+  },
+  {
+    "rank": 30,
+    "title": "Flood",
+    "artist": "Boris",
+    "releaseDate": "12/15/2000",
+    "rating": 4.01,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 31,
+    "title": "White Pony",
+    "artist": "Deftones",
+    "releaseDate": "6/20/2000",
+    "rating": 3.96,
+    "genre": "Alternative Metal"
+  },
+  {
+    "rank": 32,
+    "title": "Lateralus",
+    "artist": "Tool",
+    "releaseDate": "5/15/2001",
+    "rating": 3.94,
+    "genre": "Alternative Metal"
+  },
+  {
+    "rank": 33,
+    "title": "Jane Doe",
+    "artist": "Converge",
+    "releaseDate": "9/4/2001",
+    "rating": 3.96,
+    "genre": "Mathcore"
+  },
+  {
+    "rank": 34,
+    "title": "Vaudeville Villain",
+    "artist": "Viktor Vaughn",
+    "releaseDate": "9/16/2003",
+    "rating": 4,
+    "genre": "Abstract Hip Hop"
+  },
+  {
+    "rank": 35,
+    "title": "Voodoo",
+    "artist": "D'Angelo",
+    "releaseDate": "1/25/2000",
+    "rating": 4,
+    "genre": "Neo-Soul"
+  },
+  {
+    "rank": 36,
+    "title": "Toxicity",
+    "artist": "System of a Down",
+    "releaseDate": "9/4/2001",
+    "rating": 3.92,
+    "genre": "Alternative Metal"
+  },
+  {
+    "rank": 37,
+    "title": "Quebec",
+    "artist": "Ween",
+    "releaseDate": "8/5/2003",
+    "rating": 3.99,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 38,
+    "title": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "releaseDate": "4/23/2002",
+    "rating": 3.92,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 39,
+    "title": "加爾基 精液 栗ノ花 (Kalk samen kuri no hana)",
+    "artist": "Sheena Ringo椎名林檎",
+    "releaseDate": "2/23/2003",
+    "rating": 3.99,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 40,
+    "title": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "releaseDate": "3/12/2007",
+    "rating": 3.93,
+    "genre": "Dance-Punk"
+  }
+]

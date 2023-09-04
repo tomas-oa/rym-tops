@@ -1,0 +1,322 @@
+[
+  {
+    "rank": 1,
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "releaseDate": "3/15/2015",
+    "rating": 4.36,
+    "genre": "Conscious Hip Hop"
+  },
+  {
+    "rank": 2,
+    "title": "good kid, m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "releaseDate": "10/22/2012",
+    "rating": 4.28,
+    "genre": "West Coast Hip Hop"
+  },
+  {
+    "rank": 3,
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "releaseDate": "11/22/2010",
+    "rating": 4.09,
+    "genre": "Pop Rap"
+  },
+  {
+    "rank": 4,
+    "title": "The Money Store",
+    "artist": "Death Grips",
+    "releaseDate": "4/24/2012",
+    "rating": 4.08,
+    "genre": "Industrial Hip Hop"
+  },
+  {
+    "rank": 5,
+    "title": "Atrocity Exhibition",
+    "artist": "Danny Brown",
+    "releaseDate": "9/30/2016",
+    "rating": 4.13,
+    "genre": "Experimental Hip Hop"
+  },
+  {
+    "rank": 6,
+    "title": "Blonde",
+    "artist": "Frank Ocean",
+    "releaseDate": "8/20/2016",
+    "rating": 4.09,
+    "genre": "Alternative R&B"
+  },
+  {
+    "rank": 7,
+    "title": "Igor",
+    "artist": "Tyler, the Creator",
+    "releaseDate": "5/17/2019",
+    "rating": 4.05,
+    "genre": "Neo-Soul"
+  },
+  {
+    "rank": 8,
+    "title": "★ [Blackstar]",
+    "artist": "David Bowie",
+    "releaseDate": "1/8/2016",
+    "rating": 4.11,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 9,
+    "title": "Carrie & Lowell",
+    "artist": "Sufjan Stevens",
+    "releaseDate": "3/31/2015",
+    "rating": 4.07,
+    "genre": "Indie Folk"
+  },
+  {
+    "rank": 10,
+    "title": "To Be Kind",
+    "artist": "Swans",
+    "releaseDate": "5/13/2014",
+    "rating": 4.03,
+    "genre": "Experimental Rock"
+  },
+  {
+    "rank": 11,
+    "title": "Piñata",
+    "artist": "Freddie Gibbs & Madlib",
+    "releaseDate": "3/18/2014",
+    "rating": 4.05,
+    "genre": "Gangsta Rap"
+  },
+  {
+    "rank": 12,
+    "title": "A Moon Shaped Pool",
+    "artist": "Radiohead",
+    "releaseDate": "5/8/2016",
+    "rating": 3.94,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 13,
+    "title": "We got it from Here… Thank You 4 Your service",
+    "artist": "A Tribe Called Quest",
+    "releaseDate": "11/11/2016",
+    "rating": 4.03,
+    "genre": "Conscious Hip Hop"
+  },
+  {
+    "rank": 14,
+    "title": "Flower Boy",
+    "artist": "Tyler, the Creator",
+    "releaseDate": "7/21/2017",
+    "rating": 3.92,
+    "genre": "West Coast Hip Hop"
+  },
+  {
+    "rank": 15,
+    "title": "Twin Fantasy",
+    "artist": "Car Seat Headrest",
+    "releaseDate": "2/16/2018",
+    "rating": 3.96,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 16,
+    "title": "Jenny Death: The Powers That B Disc 2",
+    "artist": "Death Grips",
+    "releaseDate": "3/19/2015",
+    "rating": 4.01,
+    "genre": "Noise Rock"
+  },
+  {
+    "rank": 17,
+    "title": "Titanic Rising",
+    "artist": "Weyes Blood",
+    "releaseDate": "4/5/2019",
+    "rating": 3.95,
+    "genre": "Baroque Pop"
+  },
+  {
+    "rank": 18,
+    "title": "The Seer",
+    "artist": "Swans",
+    "releaseDate": "8/28/2012",
+    "rating": 3.97,
+    "genre": "Experimental Rock"
+  },
+  {
+    "rank": 19,
+    "title": "KIDS SEE GHOSTS",
+    "artist": "KIDS SEE GHOSTS",
+    "releaseDate": "6/8/2018",
+    "rating": 3.88,
+    "genre": "Pop Rap"
+  },
+  {
+    "rank": 20,
+    "title": "Have One on Me",
+    "artist": "Joanna Newsom",
+    "releaseDate": "2/23/2010",
+    "rating": 3.99,
+    "genre": "Chamber Folk"
+  },
+  {
+    "rank": 21,
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "releaseDate": "6/18/2013",
+    "rating": 3.82,
+    "genre": "Experimental Hip Hop"
+  },
+  {
+    "rank": 22,
+    "title": "Bottomless Pit",
+    "artist": "Death Grips",
+    "releaseDate": "5/6/2016",
+    "rating": 3.91,
+    "genre": "Industrial Hip Hop"
+  },
+  {
+    "rank": 23,
+    "title": "A Crow Looked at Me",
+    "artist": "Mount Eerie",
+    "releaseDate": "3/24/2017",
+    "rating": 3.93,
+    "genre": "Singer-Songwriter"
+  },
+  {
+    "rank": 24,
+    "title": "Some Rap Songs",
+    "artist": "Earl Sweatshirt",
+    "releaseDate": "11/30/2018",
+    "rating": 3.89,
+    "genre": "Abstract Hip Hop"
+  },
+  {
+    "rank": 25,
+    "title": "0",
+    "artist": "Ichiko Aoba青葉市子",
+    "releaseDate": "10/23/2013",
+    "rating": 3.99,
+    "genre": "Contemporary Folk"
+  },
+  {
+    "rank": 26,
+    "title": "Black Messiah",
+    "artist": "D'Angelo and The Vanguard",
+    "releaseDate": "12/15/2014",
+    "rating": 3.95,
+    "genre": "Neo-Soul"
+  },
+  {
+    "rank": 27,
+    "title": "You Won't Get What You Want",
+    "artist": "Daughters",
+    "releaseDate": "10/26/2018",
+    "rating": 3.86,
+    "genre": "Noise Rock"
+  },
+  {
+    "rank": 28,
+    "title": "Mista Thug Isolation",
+    "artist": "Lil Ugly Mane",
+    "releaseDate": "2/11/2012",
+    "rating": 3.91,
+    "genre": "Memphis Rap"
+  },
+  {
+    "rank": 29,
+    "title": "channel ORANGE",
+    "artist": "Frank Ocean",
+    "releaseDate": "7/10/2012",
+    "rating": 3.84,
+    "genre": "Alternative R&B"
+  },
+  {
+    "rank": 30,
+    "title": "무너지기 (Crumbling)",
+    "artist": "Mid-Air Thief공중도둑",
+    "releaseDate": "7/31/2018",
+    "rating": 3.91,
+    "genre": "Neo-Psychedelia"
+  },
+  {
+    "rank": 31,
+    "title": "The Life of Pablo",
+    "artist": "Kanye West",
+    "releaseDate": "2/14/2016",
+    "rating": 3.78,
+    "genre": "Pop Rap"
+  },
+  {
+    "rank": 32,
+    "title": "Nonagon Infinity",
+    "artist": "King Gizzard and The Lizard Wizard",
+    "releaseDate": "4/29/2016",
+    "rating": 3.89,
+    "genre": "Psychedelic Rock"
+  },
+  {
+    "rank": 33,
+    "title": "The G.A.T...",
+    "artist": "Mach-Hommy",
+    "releaseDate": "9/28/2017",
+    "rating": 3.96,
+    "genre": "Jazz Rap"
+  },
+  {
+    "rank": 34,
+    "title": "Just Got Back From the Discomfort—We're Alright",
+    "artist": "The Brave Little Abacus",
+    "releaseDate": "5/29/2010",
+    "rating": 3.89,
+    "genre": "Midwest Emo"
+  },
+  {
+    "rank": 35,
+    "title": "This Is Happening",
+    "artist": "LCD Soundsystem",
+    "releaseDate": "5/18/2010",
+    "rating": 3.87,
+    "genre": "Dance-Punk"
+  },
+  {
+    "rank": 36,
+    "title": "Teens of Denial",
+    "artist": "Car Seat Headrest",
+    "releaseDate": "5/20/2016",
+    "rating": 3.87,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 37,
+    "title": "The Glowing Man",
+    "artist": "Swans",
+    "releaseDate": "6/17/2016",
+    "rating": 3.89,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 38,
+    "title": "Plastic Beach",
+    "artist": "Gorillaz",
+    "releaseDate": "3/9/2010",
+    "rating": 3.83,
+    "genre": "Electropop"
+  },
+  {
+    "rank": 39,
+    "title": "A I A: Alien Observer",
+    "artist": "Grouper",
+    "releaseDate": "4/11/2011",
+    "rating": 3.9,
+    "genre": "Ambient"
+  },
+  {
+    "rank": 40,
+    "title": "Bloom",
+    "artist": "Beach House",
+    "releaseDate": "5/15/2012",
+    "rating": 3.84,
+    "genre": "Dream Pop"
+  }
+]

@@ -5,48 +5,29 @@
 	"description": "rate your music web scraper project",
 	"main": "index.js",
 	"scripts": {
-		"astro": "astro",
-		"build": "astro build",
 		"dev:api": "wrangler dev api/index.js",
-		"dev": "astro dev",
-		"preview": "astro preview",
-		"publish:api": "wrangler publish api/index.js",
-		"start": "astro dev"
+		"publish:api": "wrangler publish api/index.js"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@astrojs/tailwind": "^2.1.3",
-		"astro": "1.9.0",
 		"cheerio": "1.0.0-rc.12",
 		"hono": "2.7.2",
-		"prettier": "2.8.3",
-		"tailwindcss": "^3.0.24"
+		"prettier": "2.8.3"
 	},
 	"devDependencies": {
-		"eslint-plugin-astro": "^0.21.1",
-		"prettier-plugin-astro": "^0.7.2",
 		"standard": "17.0.0",
 		"vitest": "^0.27.1",
 		"wrangler": "2.7.1"
 	},
 	"eslintConfig": {
 		"extends": [
-			"standard",
-			"plugin:astro/recommended"
+			"standard"
 		],
 		"rules": {
 			"no-unused-vars": "off",
 			"no-tabs": "off"
-		},
-		"overrides": [
-			{
-				"files": [
-					"*.astro"
-				],
-				"parser": "astro-eslint-parser"
-			}
-		]
+		}
 	}
 }

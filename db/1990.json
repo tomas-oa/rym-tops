@@ -1,0 +1,322 @@
+[
+  {
+    "rank": 1,
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "releaseDate": "6/16/1997",
+    "rating": 4.26,
+    "genre": "Alternative Rock"
+  },
+  {
+    "rank": 2,
+    "title": "Loveless",
+    "artist": "My Bloody Valentine",
+    "releaseDate": "11/11/1991",
+    "rating": 4.25,
+    "genre": "Shoegaze"
+  },
+  {
+    "rank": 3,
+    "title": "Illmatic",
+    "artist": "Nas",
+    "releaseDate": "4/19/1994",
+    "rating": 4.24,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 4,
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "releaseDate": "11/9/1993",
+    "rating": 4.22,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 5,
+    "title": "Spiderland",
+    "artist": "Slint",
+    "releaseDate": "3/27/1991",
+    "rating": 4.16,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 6,
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "releaseDate": "2/10/1998",
+    "rating": 4.09,
+    "genre": "Indie Folk"
+  },
+  {
+    "rank": 7,
+    "title": "Long Season",
+    "artist": "Fishmans",
+    "releaseDate": "10/25/1996",
+    "rating": 4.2,
+    "genre": "Dream Pop"
+  },
+  {
+    "rank": 8,
+    "title": "Dummy",
+    "artist": "Portishead",
+    "releaseDate": "8/22/1994",
+    "rating": 4.14,
+    "genre": "Trip Hop"
+  },
+  {
+    "rank": 9,
+    "title": "Souvlaki",
+    "artist": "Slowdive",
+    "releaseDate": "6/1/1993",
+    "rating": 4.13,
+    "genre": "Dream Pop"
+  },
+  {
+    "rank": 10,
+    "title": "F♯A♯∞",
+    "artist": "Godspeed You Black Emperor!",
+    "releaseDate": "8/14/1997",
+    "rating": 4.14,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 11,
+    "title": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "releaseDate": "9/17/1990",
+    "rating": 4.14,
+    "genre": "Dream Pop"
+  },
+  {
+    "rank": 12,
+    "title": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "releaseDate": "9/24/1991",
+    "rating": 4.14,
+    "genre": "Jazz Rap"
+  },
+  {
+    "rank": 13,
+    "title": "Homogenic",
+    "artist": "Björk",
+    "releaseDate": "9/22/1997",
+    "rating": 4.12,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 14,
+    "title": "Endtroducing.....",
+    "artist": "DJ Shadow",
+    "releaseDate": "11/19/1996",
+    "rating": 4.12,
+    "genre": "Instrumental Hip Hop"
+  },
+  {
+    "rank": 15,
+    "title": "Either / Or",
+    "artist": "Elliott Smith",
+    "releaseDate": "2/25/1997",
+    "rating": 4.14,
+    "genre": "Singer-Songwriter"
+  },
+  {
+    "rank": 16,
+    "title": "Soundtracks for the Blind",
+    "artist": "Swans",
+    "releaseDate": "10/22/1996",
+    "rating": 4.14,
+    "genre": "Experimental Rock"
+  },
+  {
+    "rank": 17,
+    "title": "Selected Ambient Works 85-92",
+    "artist": "Aphex Twin",
+    "releaseDate": "11/9/1992",
+    "rating": 4.07,
+    "genre": "Ambient Techno"
+  },
+  {
+    "rank": 18,
+    "title": "Laughing Stock",
+    "artist": "Talk Talk",
+    "releaseDate": "11/19/1991",
+    "rating": 4.12,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 19,
+    "title": "Aquemini",
+    "artist": "OutKast",
+    "releaseDate": "9/29/1998",
+    "rating": 4.12,
+    "genre": "Southern Hip Hop"
+  },
+  {
+    "rank": 20,
+    "title": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "releaseDate": "11/9/1993",
+    "rating": 4.11,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 21,
+    "title": "Liquid Swords",
+    "artist": "Genius/GZA",
+    "releaseDate": "11/7/1995",
+    "rating": 4.1,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 22,
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "releaseDate": "9/24/1991",
+    "rating": 3.97,
+    "genre": "Grunge"
+  },
+  {
+    "rank": 23,
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "releaseDate": "9/21/1993",
+    "rating": 4.02,
+    "genre": "Grunge"
+  },
+  {
+    "rank": 24,
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "releaseDate": "3/8/1994",
+    "rating": 4.06,
+    "genre": "Industrial Rock"
+  },
+  {
+    "rank": 25,
+    "title": "Symbolic",
+    "artist": "Death",
+    "releaseDate": "3/21/1995",
+    "rating": 4.1,
+    "genre": "Technical Death Metal"
+  },
+  {
+    "rank": 26,
+    "title": "Mezzanine",
+    "artist": "Massive Attack",
+    "releaseDate": "4/20/1998",
+    "rating": 4.05,
+    "genre": "Trip Hop"
+  },
+  {
+    "rank": 27,
+    "title": "Ágætis byrjun",
+    "artist": "Sigur Rós",
+    "releaseDate": "6/12/1999",
+    "rating": 4.04,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 28,
+    "title": "The Lonesome Crowded West",
+    "artist": "Modest Mouse",
+    "releaseDate": "11/18/1997",
+    "rating": 4.08,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 29,
+    "title": "The Infamous",
+    "artist": "Mobb Deep",
+    "releaseDate": "4/25/1995",
+    "rating": 4.08,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 30,
+    "title": "Grace",
+    "artist": "Jeff Buckley",
+    "releaseDate": "8/23/1994",
+    "rating": 4.02,
+    "genre": "Singer-Songwriter"
+  },
+  {
+    "rank": 31,
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "releaseDate": "3/19/1990",
+    "rating": 4.02,
+    "genre": "Synthpop"
+  },
+  {
+    "rank": 32,
+    "title": "ATLiens",
+    "artist": "OutKast",
+    "releaseDate": "8/27/1996",
+    "rating": 4.06,
+    "genre": "Southern Hip Hop"
+  },
+  {
+    "rank": 33,
+    "title": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "releaseDate": "9/13/1994",
+    "rating": 4.04,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 34,
+    "title": "Perfect From Now On",
+    "artist": "Built to Spill",
+    "releaseDate": "1/28/1997",
+    "rating": 4.04,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 35,
+    "title": "Music Has the Right to Children",
+    "artist": "Boards of Canada",
+    "releaseDate": "4/20/1998",
+    "rating": 3.99,
+    "genre": "IDM"
+  },
+  {
+    "rank": 36,
+    "title": "Rust in Peace",
+    "artist": "Megadeth",
+    "releaseDate": "9/21/1990",
+    "rating": 4,
+    "genre": "Thrash Metal"
+  },
+  {
+    "rank": 37,
+    "title": "Post",
+    "artist": "Björk",
+    "releaseDate": "6/15/1995",
+    "rating": 3.96,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 38,
+    "title": "Siamese Dream",
+    "artist": "Smashing Pumpkins",
+    "releaseDate": "7/26/1993",
+    "rating": 3.98,
+    "genre": "Alternative Rock"
+  },
+  {
+    "rank": 39,
+    "title": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "releaseDate": "11/10/1992",
+    "rating": 3.96,
+    "genre": "Rap Metal"
+  },
+  {
+    "rank": 40,
+    "title": "Black on Both Sides",
+    "artist": "Mos Def",
+    "releaseDate": "10/12/1999",
+    "rating": 4.03,
+    "genre": "East Coast Hip Hop"
+  }
+]

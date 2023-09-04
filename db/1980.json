@@ -1,0 +1,322 @@
+[
+  {
+    "rank": 1,
+    "title": "Remain in Light",
+    "artist": "Talking Heads",
+    "releaseDate": "10/8/1980",
+    "rating": 4.26,
+    "genre": "New Wave"
+  },
+  {
+    "rank": 2,
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "releaseDate": "5/2/1989",
+    "rating": 4.21,
+    "genre": "Gothic Rock"
+  },
+  {
+    "rank": 3,
+    "title": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "releaseDate": "6/16/1986",
+    "rating": 4.12,
+    "genre": "Jangle Pop"
+  },
+  {
+    "rank": 4,
+    "title": "Hounds of Love",
+    "artist": "Kate Bush",
+    "releaseDate": "9/16/1985",
+    "rating": 4.16,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 5,
+    "title": "Doolittle",
+    "artist": "Pixies",
+    "releaseDate": "4/17/1989",
+    "rating": 4.1,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 6,
+    "title": "Closer",
+    "artist": "Joy Division",
+    "releaseDate": "7/18/1980",
+    "rating": 4.08,
+    "genre": "Post-Punk"
+  },
+  {
+    "rank": 7,
+    "title": "Ride the Lightning",
+    "artist": "Metallica",
+    "releaseDate": "7/30/1984",
+    "rating": 4.07,
+    "genre": "Thrash Metal"
+  },
+  {
+    "rank": 8,
+    "title": "Daydream Nation",
+    "artist": "Sonic Youth",
+    "releaseDate": "10/18/1988",
+    "rating": 4.04,
+    "genre": "Noise Rock"
+  },
+  {
+    "rank": 9,
+    "title": "Master of Puppets",
+    "artist": "Metallica",
+    "releaseDate": "3/3/1986",
+    "rating": 4.02,
+    "genre": "Thrash Metal"
+  },
+  {
+    "rank": 10,
+    "title": "Spirit of Eden",
+    "artist": "Talk Talk",
+    "releaseDate": "9/16/1988",
+    "rating": 4.07,
+    "genre": "Post-Rock"
+  },
+  {
+    "rank": 11,
+    "title": "Pornography",
+    "artist": "The Cure",
+    "releaseDate": "5/3/1982",
+    "rating": 4.05,
+    "genre": "Gothic Rock"
+  },
+  {
+    "rank": 12,
+    "title": "Rain Dogs",
+    "artist": "Tom Waits",
+    "releaseDate": "9/30/1985",
+    "rating": 4.04,
+    "genre": "Singer-Songwriter"
+  },
+  {
+    "rank": 13,
+    "title": "The Dreaming",
+    "artist": "Kate Bush",
+    "releaseDate": "9/1/1982",
+    "rating": 4.05,
+    "genre": "Art Pop"
+  },
+  {
+    "rank": 14,
+    "title": "Sign \"☮︎\" the Times",
+    "artist": "Prince",
+    "releaseDate": "3/30/1987",
+    "rating": 4.03,
+    "genre": "Contemporary R&B"
+  },
+  {
+    "rank": 15,
+    "title": "Discipline",
+    "artist": "King Crimson",
+    "releaseDate": "9/22/1981",
+    "rating": 4,
+    "genre": "Art Rock"
+  },
+  {
+    "rank": 16,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "releaseDate": "11/30/1982",
+    "rating": 3.97,
+    "genre": "Contemporary R&B"
+  },
+  {
+    "rank": 17,
+    "title": "The Stone Roses",
+    "artist": "The Stone Roses",
+    "releaseDate": "5/2/1989",
+    "rating": 3.98,
+    "genre": "Baggy"
+  },
+  {
+    "rank": 18,
+    "title": "Powerslave",
+    "artist": "Iron Maiden",
+    "releaseDate": "9/3/1984",
+    "rating": 3.98,
+    "genre": "Heavy Metal"
+  },
+  {
+    "rank": 19,
+    "title": "Treasure",
+    "artist": "Cocteau Twins",
+    "releaseDate": "11/1/1984",
+    "rating": 3.97,
+    "genre": "Dream Pop"
+  },
+  {
+    "rank": 20,
+    "title": "Reign in Blood",
+    "artist": "Slayer",
+    "releaseDate": "10/7/1986",
+    "rating": 3.95,
+    "genre": "Thrash Metal"
+  },
+  {
+    "rank": 21,
+    "title": "Fresh Fruit for Rotting Vegetables",
+    "artist": "Dead Kennedys",
+    "releaseDate": "9/2/1980",
+    "rating": 3.97,
+    "genre": "Hardcore Punk"
+  },
+  {
+    "rank": 22,
+    "title": "Surfer Rosa",
+    "artist": "Pixies",
+    "releaseDate": "3/21/1988",
+    "rating": 3.91,
+    "genre": "Indie Rock"
+  },
+  {
+    "rank": 23,
+    "title": "Deceit",
+    "artist": "This Heat",
+    "releaseDate": "9/1/1981",
+    "rating": 3.95,
+    "genre": "Experimental Rock"
+  },
+  {
+    "rank": 24,
+    "title": "Seventh Son of a Seventh Son",
+    "artist": "Iron Maiden",
+    "releaseDate": "4/11/1988",
+    "rating": 3.95,
+    "genre": "Heavy Metal"
+  },
+  {
+    "rank": 25,
+    "title": "Swordfishtrombones",
+    "artist": "Tom Waits",
+    "releaseDate": "9/1/1983",
+    "rating": 3.96,
+    "genre": "Singer-Songwriter"
+  },
+  {
+    "rank": 26,
+    "title": "Paul's Boutique",
+    "artist": "Beastie Boys",
+    "releaseDate": "7/25/1989",
+    "rating": 3.93,
+    "genre": "East Coast Hip Hop"
+  },
+  {
+    "rank": 27,
+    "title": "The Ascension",
+    "artist": "Glenn Branca",
+    "releaseDate": "11/1/1981",
+    "rating": 3.94,
+    "genre": "No Wave"
+  },
+  {
+    "rank": 28,
+    "title": "The Number of the Beast",
+    "artist": "Iron Maiden",
+    "releaseDate": "3/22/1982",
+    "rating": 3.91,
+    "genre": "NWOBHM"
+  },
+  {
+    "rank": 29,
+    "title": "Moving Pictures",
+    "artist": "Rush",
+    "releaseDate": "2/9/1981",
+    "rating": 3.91,
+    "genre": "Progressive Rock"
+  },
+  {
+    "rank": 30,
+    "title": "Speaking in Tongues",
+    "artist": "Talking Heads",
+    "releaseDate": "6/1/1983",
+    "rating": 3.92,
+    "genre": "New Wave"
+  },
+  {
+    "rank": 31,
+    "title": "Tabula rasa",
+    "artist": "Arvo Pärt",
+    "releaseDate": "9/1/1984",
+    "rating": 3.97,
+    "genre": "Holy Minimalism"
+  },
+  {
+    "rank": 32,
+    "title": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "releaseDate": "4/14/1988",
+    "rating": 3.93,
+    "genre": "Political Hip Hop"
+  },
+  {
+    "rank": 33,
+    "title": "Wrong",
+    "artist": "NoMeansNo",
+    "releaseDate": "10/23/1989",
+    "rating": 3.96,
+    "genre": "Post-Hardcore"
+  },
+  {
+    "rank": 34,
+    "title": "Plastic Surgery Disasters",
+    "artist": "Dead Kennedys",
+    "releaseDate": "11/1/1982",
+    "rating": 3.95,
+    "genre": "Hardcore Punk"
+  },
+  {
+    "rank": 35,
+    "title": "Computerwelt",
+    "artist": "Kraftwerk",
+    "releaseDate": "5/10/1981",
+    "rating": 3.92,
+    "genre": "Synthpop"
+  },
+  {
+    "rank": 36,
+    "title": "Script of the Bridge",
+    "artist": "The Chameleons",
+    "releaseDate": "8/1/1983",
+    "rating": 3.93,
+    "genre": "Post-Punk"
+  },
+  {
+    "rank": 37,
+    "title": "Clics modernos",
+    "artist": "Charly García",
+    "releaseDate": "11/5/1983",
+    "rating": 3.96,
+    "genre": "New Wave"
+  },
+  {
+    "rank": 38,
+    "title": "Symphony No. 9 'From the New World'",
+    "artist": "Antonín Dvořák /                         Chicago Symphony Orchestra /                         Georg Solti",
+    "releaseDate": "12/31/1983",
+    "rating": 3.99,
+    "genre": "Romanticism"
+  },
+  {
+    "rank": 39,
+    "title": "Double Nickels on the Dime",
+    "artist": "Minutemen",
+    "releaseDate": "7/3/1984",
+    "rating": 3.91,
+    "genre": "Post-Punk"
+  },
+  {
+    "rank": 40,
+    "title": "The Goldberg Variations",
+    "artist": "Johann Sebastian Bach /                         Glenn Gould",
+    "releaseDate": "9/2/1982",
+    "rating": 3.96,
+    "genre": "Baroque Music"
+  }
+]
